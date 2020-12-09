@@ -10,7 +10,7 @@
 
 //+++++++++++++++++++++++++++++++++++++++++//
 
-// You Can Change a string with another string,      but you cant change its type.
+// You Can Change a string with another string, but you cant change its type.
 // name = 'ken';
 // print(name);
 
@@ -36,7 +36,7 @@
 
 //+++++++++++++++++++++++++++++++++++++++++//
 
-//  How to return different types within a           function
+//  How to return different types within a function
 //  void main() {
 //    print('something');
 //    String greet = greeting();
